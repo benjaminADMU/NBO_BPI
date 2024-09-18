@@ -1,0 +1,60 @@
+Product_ID,Product_Name,Category
+0,Corporate Credit Cards,CORPORATE_CARDS
+1,Corporate Credit Cards - Credit,CORPORATE_CARDS
+2,Corporate Credit Cards - Prepaid,CORPORATE_CARDS
+3,Auto loans,RETAIL_PRODUCTS
+4,Housing loans,RETAIL_PRODUCTS
+5,Personal loans,RETAIL_PRODUCTS
+6,Other loans,RETAIL_PRODUCTS
+7,Trade loans,CORPORATE_LOANS
+8,Leasing,CORPORATE_LOANS
+9,Operating lease,CORPORATE_LOANS
+10,RPNL/STL/KNCL,CORPORATE_LOANS
+11,MTL/LTL/SME Term Loan,CORPORATE_LOANS
+12,Short-term loans,CORPORATE_LOANS
+13,Long-term loans,CORPORATE_LOANS
+14,Bills purchased,CORPORATE_LOANS
+15,Supplier Finance,CORPORATE_LOANS
+16,Distributor Fiannce,CORPORATE_LOANS
+17,Investments (AMTC/BIMI),INVESTMENTS_AND_SECURITIES
+18,Fixed income and equality,INVESTMENTS_AND_SECURITIES
+19,Other services,TRADE_SERVICES
+20,Letter of credit,TRADE_SERVICES
+21,SBLC,TRADE_SERVICES
+22,Duties payment,TRADE_SERVICES
+23,Overall non-life insurance flag,INSURANCE
+24,Non-life insurance,INSURANCE
+25,Overall life insurance flag,INSURANCE
+26,Life insurance,INSURANCE
+27,Cash management,CASH_MANAGEMENT
+28,Disbursements - government,CASH_MANAGEMENT
+29,Disbursements - check based,CASH_MANAGEMENT
+30,Disbursements - digital,CASH_MANAGEMENT
+31,Liquidity,CASH_MANAGEMENT
+32,Collections - digital,CASH_MANAGEMENT
+33,Peso savings,SAVINGS_F
+34,US Dollar savings,SAVINGS_F
+35,Other savings,SAVINGS_F
+36,Peso current,CURRENT_F
+37,US Dollar current,CURRENT_F
+38,Other current,CURRENT_F
+39,Peso build-up,BUILDUP_F
+40,US Dollar build-up,BUILDUP_F
+41,Peso Time Deposit,TD_F
+42,US Dollar Time Deposit,TD_F
+43,Other Time Deposit,TD_F
+44,Group plan,RETAIL_LOAN
+45,Fleet financing,RETAIL_LOAN
+46,Floorstock financing,RETAIL_LOAN
+47,Contract to sell financing,RETAIL_LOAN
+48,Funds (AMTC/BIMI),INVESTMENT_FUNDS
+49,PERA,INVESTMENT_FUNDS
+50,Segregated Portfolio,INVESTMENT_FUNDS
+51,Fixed Income and equality,SECURITIES
+52,Equity,SECURITIES
+53,Underwriting Equity,CORPORATE_FINANCE
+54,Underwriting Debt,CORPORATE_FINANCE
+55,Project/Structured Finance,CORPORATE_FINANCE
+56,Financial Advisory,CORPORATE_FINANCE
+57,Forex,FOREX
+58,Remittance,REMITTANCE
